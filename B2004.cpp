@@ -3,6 +3,8 @@
 
 using namespace std;
 
+// 快捷键  option + command + p 查看题目
+// 快捷键  option + command + s 提交题目
 int main(){
 	int a,b,c;
 	cin >> a >> b >> c;
