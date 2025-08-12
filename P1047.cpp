@@ -17,7 +17,7 @@ int main(){
             flag[j] = 1;
         }
     }
-    for(long long i = 0;i <= l ;i++){
+    for(long long i = 0; i <= l; i++){
         if(!flag[i]) ans ++;
     }
     cout << ans << endl;
