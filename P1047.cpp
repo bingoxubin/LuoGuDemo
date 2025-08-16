@@ -4,7 +4,7 @@
 using namespace std;
 
 const long long N  = 1e4 + 10;
-long long l,m;
+long long l, m;
 bool flag[N];
 long long int ans;
 
