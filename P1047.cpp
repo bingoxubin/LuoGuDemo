@@ -10,7 +10,7 @@ long long int ans;
 
 int main(){
     cin >> l >> m;
-    for( int i = 0; i < m; i++){
+    for( int i = 0; i < m ; i++){
         long long u, v;
         cin >> u >> v;
         for(long long j = u; j <= v; j++){
